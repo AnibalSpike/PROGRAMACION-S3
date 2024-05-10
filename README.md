@@ -5,3 +5,6 @@ Un TextField en JavaFX es un componente de interfaz gráfica de usuario que perm
 
 
 En JavaFX, un Label es un nodo gráfico que se utiliza para mostrar texto no editable. Es similar a una etiqueta en HTML o a un texto estático en una aplicación de escritorio estándar. Los Label son comúnmente utilizados para mostrar instrucciones, descripciones o información sobre otros elementos en la interfaz de usuario.
+
+
+El AnchorPane es un contenedor en JavaFX que permite posicionar los nodos hijos en coordenadas absolutas dentro de su área. Es útil cuando necesitas controlar la ubicación exacta de los nodos en la pantalla, por ejemplo, en el diseño de interfaces de usuario personalizadas.
